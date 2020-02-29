@@ -1,6 +1,6 @@
 # Machine 0.001
 Auto SQL Script Executor
-perpose of this program is to reduce the DBA work load. program will execute uploaded script once it was approved. it was written in simple C# codes. lot more to come :) 
+Purpose of this program is to reduce the DBA work load. program will execute uploaded script once it was approved. it was written in simple C# codes. lot more to come :) 
 
 How to use :
 1. Execute the script from Table script.sql to your database
